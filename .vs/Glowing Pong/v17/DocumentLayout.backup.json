@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\Glowing Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC102CD-1C52-8605-D54F-962623960588}|Assembly-CSharp.csproj|d:\\unity\\projects\\glowing pong\\assets\\scripts\\destroysoundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC102CD-1C52-8605-D54F-962623960588}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroysoundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC102CD-1C52-8605-D54F-962623960588}|Assembly-CSharp.csproj|d:\\unity\\projects\\glowing pong\\assets\\scripts\\ballbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC102CD-1C52-8605-D54F-962623960588}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC102CD-1C52-8605-D54F-962623960588}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Glowing Pong\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC102CD-1C52-8605-D54F-962623960588}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestroySoundEffect.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Glowing Pong\\Assets\\Scripts\\DestroySoundEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroySoundEffect.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Glowing Pong\\Assets\\Scripts\\DestroySoundEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroySoundEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:12:49.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallBounce.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Glowing Pong\\Assets\\Scripts\\BallBounce.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallBounce.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Glowing Pong\\Assets\\Scripts\\BallBounce.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallBounce.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:07:50.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Glowing Pong\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Glowing Pong\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:01:27.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
