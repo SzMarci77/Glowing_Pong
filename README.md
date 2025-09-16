@@ -32,4 +32,4 @@ A játék célja ugyanaz, mint az eredetiben: pattintsd vissza a labdát, és pr
 ## 📦 Telepítés és futtatás
 1. Klónozd a repót:
    ```bash
-   git clone https://github.com/felhasznalonev/glowing-pong.git
+   git clone https://github.com/SzMarci77/Glowing_Pong.git
