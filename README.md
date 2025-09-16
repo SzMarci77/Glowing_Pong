@@ -33,3 +33,7 @@ A játék célja ugyanaz, mint az eredetiben: pattintsd vissza a labdát, és pr
 1. Klónozd a repót:
    ```bash
    git clone https://github.com/SzMarci77/Glowing_Pong.git
+2. Nyisd meg Unity Hub-ot és importáld a letöltött mappát (válaszd ki)
+3. Várj, hogy Unity összekészítse a projektek (első indításra lassú lehet)
+4. File menüpontban -> Build Settings -> Build gomb
+5. Add meg célpontot hova fordítsa le a fájlokat, nevezed el pl: "Glowing Pong"-nak
